@@ -17,7 +17,7 @@
 <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/%E5%BE%AE%E4%BF%A1.jpg" align="left" width="400" />
 
 ## 软件部分截图如下：
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
   <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-1.jpg" width="200" />
   <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-2.jpg" width="200" />
   <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-2-1.jpg" width="200" />
