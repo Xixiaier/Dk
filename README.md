@@ -17,10 +17,21 @@
 <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/%E5%BE%AE%E4%BF%A1.jpg" align="left" />
 
 ## 软件部分截图如下：
-<div style="display: flex; justify-content: space-around;">
- <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-1.jpg" width="400" />
- <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-2.jpg" width="400"/>
- <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-3.jpg" width="400"/>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+  <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-1.jpg" width="200" />
+  <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-2.jpg" width="200" />
+  <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-2-1.jpg" width="200" />
+  <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-3.jpg" width="200" />
+  <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-3-1.jpg" width="200" />
+  <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-3-2.jpg" width="200" />
+  <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/3.jpg" width="200" />
+  <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/4.jpg" width="200" />
+  <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/5.jpg" width="200" />
+  <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/6.jpg" width="200" />
+  <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/7.jpg" width="200" />
+  <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/8.jpg" width="200" />
+  <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/9.jpg" width="200" />
+  <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/10.jpg" width="200" />
 </div>
 
 
