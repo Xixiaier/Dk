@@ -14,7 +14,7 @@
 
 **Tips**：由于框架发展需要，有兴趣加入我们的，欢迎交流。
 
-
+<img src="https://github.com/Xixiaier/Deeke/photo/微信.jpg" align="left" />
 
 ## 软件部分截图如下：
 
