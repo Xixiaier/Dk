@@ -14,10 +14,10 @@
 
 **Tips**：由于框架发展需要，有兴趣加入我们的，欢迎交流。
 
-<img src="https://github.com/Xixiaier/Deeke/blob/main/photo/%E5%BE%AE%E4%BF%A1.jpg" align="left" />
+<img src="https://github.com/Xixiaier/Deeke/blob/main/photo/%E5%BE%AE%E4%BF%A1.jpg" align="left" width="400" />
 
 ## 软件部分截图如下：
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
   <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-1.jpg" width="200" />
   <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-2.jpg" width="200" />
   <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-2-1.jpg" width="200" />
