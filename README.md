@@ -18,7 +18,10 @@
 
 ## 软件部分截图如下：
 <div style="display: flex; justify-content: space-around;">
- <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-1.jpg" width="200" />
- <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-2.jpg" width="200"/>
- <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-3.jpg" width="200"/>
+ <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-1.jpg" width="400" />
+ <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-2.jpg" width="400"/>
+ <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-3.jpg" width="400"/>
 </div>
+
+
+
