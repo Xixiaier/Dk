@@ -17,9 +17,8 @@
 <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/%E5%BE%AE%E4%BF%A1.jpg" align="left" />
 
 ## 软件部分截图如下：
-
-<img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-1.jpg" align="left" />
-<p align="center">
-<img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-2.jpg" />
-</p>
-<img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-3.jpg" align="right" />
+<div style="display: flex; justify-content: space-around;">
+ <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-1.jpg" width="200" />
+ <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-2.jpg" width="200"/>
+ <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-3.jpg" width="200"/>
+</div>
