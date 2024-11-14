@@ -18,6 +18,9 @@
 </p>
 
 <h2 style="text-align: center;">软件部分截图如下：</h2>
+
+
+
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px;">
   <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-1.jpg" width="200" />
   <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/2-2.jpg" width="200" />
