@@ -12,7 +12,7 @@
 - 支持自定义时间挂机（定时启动）；
 - 支持图片评论；
 
-**Tips**：由于框架发展需要，有兴趣加入我们的，欢迎交流。
+**Tips**：需要贴牌或者源码买断的，欢迎联系我们。目前由于框架发展需要，有兴趣加入我们的，欢迎交流。
 <p align="center">
   <img src="https://github.com/Xixiaier/Deeke/blob/main/photo/%E5%BE%AE%E4%BF%A1.jpg"  width="400" />
 </p>
